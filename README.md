@@ -48,6 +48,8 @@ We encourage the community to contribute to plugins! 🎉
 2. Create a branch for your modification:
 ```bash
 git checkout -b feature-my-functionality
+```
+
 3. Make your modifications and test
 4. Submit a Pull Request (PR)
 👉 See our contribution guide: CONTRIBUTING.md
