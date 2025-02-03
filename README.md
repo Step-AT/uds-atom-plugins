@@ -53,7 +53,7 @@ git checkout -b feature-my-functionality
 
 3. Make your modifications and test
 4. Submit a Pull Request (PR)
-👉 See our contribution guide: CONTRIBUTING.md
+👉 See our contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📩 Need help?
 🔹 GitHub Discussions
