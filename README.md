@@ -37,6 +37,7 @@ Plugins are classified into three categories:
 Each plugin is hosted in an independent repository. 1. **Clone the desired plugin**
 ```bash
 git clone https://github.com/step-at/uds-atom-plugin-modbus.git
+```
 
 2. Read the plugin's README.md to see how to install and use it.
 
