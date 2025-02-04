@@ -11,6 +11,7 @@ Plugins are classified into three categories:
 ### 🟢 **Sourcers** (Data Acquisition)
 | Plugin | Description | Repo |
 |--------|------------|------|
+| **Simulation** | Generates simulated data | [uds-atom-sourcer-simulator](https://github.com/step-at/uds-atom-sourcer-simulation) |
 | **Modbus TCP** | Retrieves data from Modbus TCP devices | [uds-atom-sourcer-modbus-tcp](https://github.com/step-at/uds-atom-sourcer-modbus-tcp) |
 | **Modbus RTU** | Retrieves data from Modbus RTU devices | [uds-atom-sourcer-modbus-tcp](https://github.com/step-at/uds-atom-sourcer-modbus-RTU) |
 | **OPC UA** | Collects data from OPC UA servers | [uds-atom-sourcer-opcua](https://github.com/step-at/uds-atom-sourcer-opcua) |
