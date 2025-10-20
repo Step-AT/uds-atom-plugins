@@ -18,12 +18,14 @@ Plugins are classified into three categories:
 | **OPC DA** | Collects data from OPC DA servers | [uds-atom-sourcer-opcda](https://github.com/step-at/uds-atom-sourcer-opcda) |
 | **Siemens S7** | Communication with Siemens PLCs via S7 | [uds-atom-sourcer-siemens-s7](https://github.com/step-at/uds-atom-sourcer-siemens-s7) |
 | **SNMP** | Communication with Siemens PLCs via S7 | [uds-atom-sourcer-siemens-s7](https://github.com/step-at/uds-atom-sourcer-siemens-s7) |
+| **ISC Lite** | Connect a Supervision with UDS Atom (Decrepated now it's WebSocket) | [uds-atom-sourcer-siemens-s7](https://github.com/step-at/uds-atom-sourcer-siemens-s7) |
 
 ### 🔵 **Modules** (Processing and calculations)
 | Plugin | Description | Repo |
 |--------|------------|------|
 | **Trigger** | Rules engine to apply business logic | [uds-atom-module-trigger](https://github.com/step-at/uds-atom-module-trigger) |
 | **Formula** | Executes Excel-like formulas on data | [uds-atom-module-formula](https://github.com/step-at/uds-atom-module-formula) |
+| **Alchemy** | All powerfull module | [uds-atom-module-alchemy](https://github.com/Step-AT/Module-Alchemy) |
 
 ### 🔴 **Pushers** (Sending data)
 | Plugin | Description | Repo |
@@ -31,6 +33,7 @@ Plugins are classified into three categories:
 | **MQTT** | Sends data to a MQTT broker | [uds-atom-pusher-mqtt](https://github.com/step-at/uds-atom-pusher-mqtt) |
 | **TimeScaleDB** | Connects UDS Atom to a TimeScaleDB Database | [uds-atom-pusher-tsdb](https://github.com/step-at/uds-atom-pusher-tsdb) |
 | **InfluxDB** | Connects UDS Atom to an Influx Database | [uds-atom-pusher-influxdb](https://github.com/step-at/uds-atom-pusher-influxdb) |
+| **ISC Lite** | Connects UDS Atom to an Supervision | [uds-atom-pusher-isc-lite](https://github.com/Step-AT/Pusher-ISC-Lite) |
 
 ---
 
